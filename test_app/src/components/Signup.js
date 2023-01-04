@@ -15,7 +15,7 @@ const Signup = () => {
                 <div>
                     <Navbar bg="dark" variant="dark">
                         <Container>
-                            <Navbar.Brand href="#Name">SwiftSend</Navbar.Brand>
+                            <Navbar.Brand href="#Name">SwiftPay</Navbar.Brand>
                             <Nav className="me-auto">
                                 <Nav.Link href="#home">Home</Nav.Link>
                             </Nav>
